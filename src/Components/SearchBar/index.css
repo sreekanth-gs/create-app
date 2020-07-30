@@ -1,0 +1,16 @@
+.search-bar input[type=text] {
+    height: 38px;
+    width: 400px;
+
+}
+
+.search-bar{
+    display: flex;
+    width: fit-content;
+    padding: 10px;
+    margin: 200px 0px 0px 350px
+
+}
+.search-bar .btn{
+    border-radius: 0px;
+}

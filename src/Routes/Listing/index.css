@@ -1,0 +1,14 @@
+.listing-container {
+    background-color:red !important;
+    height:100vh
+    
+}
+
+.ads{
+    display:block;
+    height:100vh;
+    width:25%;
+    background-color: white;
+   
+    float:right;
+}
