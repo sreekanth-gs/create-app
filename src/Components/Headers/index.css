@@ -1,0 +1,13 @@
+.header-container{
+    background-color: black;
+    width: auto;
+    height: 85px;
+
+ 
+}
+.header-container img{
+    margin-left: 40%;
+    margin-top: -55px;
+    height: 195px!important;
+}
+
